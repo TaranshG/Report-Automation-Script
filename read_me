@@ -1,0 +1,4 @@
+Report Automation Script (Python + Pandas)
+- Automated weekly reports from raw CSV data
+- Cleaned and analyzed sales data to generate KPIs and visual summaries
+- Used Matplotlib and Excel export; simulated email delivery to stakeholders
